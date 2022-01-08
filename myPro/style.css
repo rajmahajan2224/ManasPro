@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  border: none;
+  border-radius: 12px;
+  display: flex;
+  position: relative;
+}
+
+.leftside {
+  background-color: #334756;
+  border-right: 1px solid #000;
+  width: 12%;
+  height: 645px;
+  border-bottom-right-radius: 25px;
+  border-top-right-radius: 25px;
+  position: fixed;
+}
+
+.logo {
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+.down {
+  margin-top: 380px;
+  margin-left: 52px;
+}
+
+.line {
+  margin-top: 40px;
+}
+
+.profile {
+  margin-top: 35px;
+  margin-left: 30px;
+}
+
+.container1 {
+  display: flex;
+  position: relative;
+  margin-left: 400px;
+  margin-top: -550px;
+}
+
+.para {
+  margin-left: 450px;
+}
